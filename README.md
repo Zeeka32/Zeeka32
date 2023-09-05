@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **Zeeka32@gmail.com**
 
-- 📄 Checkout this [Sorting Visualizer](https://zeeka32.github.io/Sorting-Visualizer/)
+- 📄 Checkout this <a href="https://zeeka32.github.io/Sorting-Visualizer/" target="blank">Sorting Visualizer</a>
 - 📄 Checkout my latest Project [Damage Calculator](https://zeeka32.github.io/Star-Rail-Damage-Calculator/)
 
 <h3 align="left">Connect with me:</h3>
