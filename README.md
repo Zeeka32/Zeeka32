@@ -3,14 +3,15 @@
 <img align="right" alt="Coding" width="350" src="https://gifdb.com/images/high/happy-cat-working-on-computer-cartoon-c2cinzv2rijwf3en.gif">
 
 
-- 🔭 I’m currently working on a **Damage Calculator for Honkai: Star Rail**
+- 🔭 I’m currently working on a **Website to Easy ICPC Registration**
 
-- 🌱 I’m currently learning **React, Typescript**
+- 🌱 I’m currently learning **Next.Js, Typescript**
 
-- 💬 Ask me about **react, django**
+- 💬 Ask me about **Next.Js, and Frontend development**
 
 - 📄 Checkout this <a href="https://zeeka32.github.io/Sorting-Visualizer/" target="blank">Sorting Visualizer</a>
-- 📄 Checkout my latest Project [Damage Calculator](https://zeeka32.github.io/Star-Rail-Damage-Calculator/)
+- 📄 Checkout this awesome [Damage Calculator](https://zeeka32.github.io/Star-Rail-Damage-Calculator/)
+- 📄 Checkout my latest Project [ICPC FCAI CU Community Website](https://icpcfcaicu.com/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
