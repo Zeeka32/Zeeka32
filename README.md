@@ -3,9 +3,9 @@
 <img align="right" alt="Coding" width="350" src="https://gifdb.com/images/high/happy-cat-working-on-computer-cartoon-c2cinzv2rijwf3en.gif">
 
 
-- 🔭 I’m currently working on a **Website to Ease ICPC Registration**
+- 🔭 I’m currently working as a **Freelancer**
 
-- 🌱 I’m currently learning **Next.Js, Typescript**
+- 🌱 I’m currently learning **Next.Js 14, tanstack query**
 
 - 💬 Ask me about **Next.Js, and Frontend development**
 
