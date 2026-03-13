@@ -11,7 +11,7 @@
 
 - 📄 Checkout this <a href="https://zeeka32.github.io/Sorting-Visualizer/" target="blank">Sorting Visualizer</a>
 - 📄 Checkout this awesome [Damage Calculator](https://zeeka32.github.io/Star-Rail-Damage-Calculator/)
-- 📄 Checkout my latest Project [ICPC FCAI CU Community Website](https://icpcfcaicu.com/)
+- 📄 Checkout my latest Project [ICPC FCAI CU Community Website](https://icpc-fcai-cu.org/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
